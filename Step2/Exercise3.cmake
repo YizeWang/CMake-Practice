@@ -6,8 +6,8 @@ cmake_minimum_required(VERSION 3.23)
 set(SKIP_TESTS True)
 
 # TODO5: Include Exercise1.cmake and Exercise2.cmake
-include(Step2/Exercise1.cmake)
-include(Step2/Exercise2.cmake)
+include(Exercise1.cmake)
+include(Exercise2.cmake)
 
 set(InList FooBar QuxBar)
 
